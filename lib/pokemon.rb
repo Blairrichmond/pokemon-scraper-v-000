@@ -24,4 +24,3 @@ class Pokemon
         return poke
     end
   end
-end
