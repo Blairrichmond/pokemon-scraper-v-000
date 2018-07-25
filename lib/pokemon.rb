@@ -22,6 +22,6 @@ class Pokemon
     self.all.each do |poke|
       if poke.id = id
         return poke
-      end
+    end
   end
 end
