@@ -20,7 +20,8 @@ class Pokemon
 
   def self.find(num, database)
     self.all.each do |poke|
-      if poke.id = id 
+      if poke.id = id
         return poke
+      end
   end
 end
